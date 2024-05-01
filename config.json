@@ -1,0 +1,13 @@
+{
+    "AmqpConfig": {
+        "Host": "127.0.0.1",
+        "Port": 5672,
+        "User": "admin",
+        "Password": "urubu100",
+        "Protocol": "amqp"
+    },
+    "Application": {
+        "Host": "127.0.0.1",
+        "Port": 8080
+    }
+}
